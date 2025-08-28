@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
 
-person_one_db = r"C:\Programming\Projects\Finance_Dashboard\muelvzdatabase.db"
-person_two_db = r"C:\Programming\Projects\Finance_Dashboard\aldredatabase.db"
+person_one_db = r"muelvzdatabase.db"
+person_two_db = r"aldredatabase.db"
 
 tags = ["Transportation", "Necessities", "Academics", "Food", "Social", "Personal"]
 
